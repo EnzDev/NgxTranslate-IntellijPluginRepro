@@ -1,6 +1,22 @@
 {
-  "HOME": {
-    "TITLE": "Hello Angular with ngx-translate!",
-    "SELECT": "Change language"
-  }
+  "A": {
+    "AA": {
+      "AAA": "en: aaa",
+      "BAA": "en: aab"
+    },
+    "BA": "en: ab",
+    "CA": {
+      "ACA": "en: aca",
+      "BCA": {
+        "ABCA": "en: acba",
+        "BBCA": "en: acbb",
+      },
+      "CCA": "Hi, my name is gordon"
+    }
+  },
+  "B": "en: b",
+  "C": {
+    "AC": "en: ca",
+  },
+  "D": {}
 }
